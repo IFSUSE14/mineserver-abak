@@ -1,1 +1,6 @@
-
+> English README at"**EN_README**"
+# 这是个简单的Minecraft服务器备份工具
+### TODO:
+> 1.定时执行脚本
+> 2.配置文件
+> 3.自动上传至Onedrive
