@@ -6,6 +6,6 @@
 pip install -r requirements.txt
 ```
 ### TODO:
-> 1.定时执行脚本
-> 2.配置文件
-> 3.自动上传至Onedrive
+> 1.定时执行脚本  
+> 2.~~配置文件~~  
+> 3.自动上传至Onedrive  
